@@ -14,8 +14,8 @@
  
 # ¡Road To Full Stack Developer!
 
-- [ ] Diseño Web <---- Me encuentro aquí
-- [ ] JavaScript
+- [x] Diseño Web
+- [ ] JavaScript <---- Me encuentro aquí
 - [ ] React Js
 - [ ] Programación BackEnd
 
