@@ -1,6 +1,6 @@
 # Huolaaa! Soy Marco
 
-🔭 Actualemte estoy laburando en Google como agente de soporte técnico en la plataforma de publicida ADS.
+🔭 Actualemte estoy trabajando en Google como agente de soporte técnico en la plataforma de publicida ADS.
 - [x] Google Ads
 - [x] Tag Manager
 - [x] Merchant Center
